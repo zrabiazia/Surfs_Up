@@ -13,9 +13,15 @@ In December, the total count was 1517. Mean was 71.04 and STD was 3.74. Minimum 
 ### Comparison between June and December statistical summary:
 The maximum temperature in both months (June, December) is 85 and 83, which is not a huge difference.
 
+### Mean:
+
 The Mean between June and December temperature is 74.94 and 71.04.
 
+### STD:
+
 The STD for June is 3.25, lower than December month is 3.75.
+
+### Minimum Temperature in June and December:
 
 The minimum temperature has a big difference. The minimum temperature for June is 64 which is high.
 
